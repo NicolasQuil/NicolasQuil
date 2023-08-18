@@ -6,7 +6,6 @@
 
 Skills: C/ JAVA / PYTHON / GIT / JS /REACT/ HTML / CSS/ BOOTSRAP/ TAILWIND AND MORE...
 
-- 🔭 I’m currently working on this page. 
 
 
 
