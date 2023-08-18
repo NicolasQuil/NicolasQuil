@@ -8,10 +8,9 @@ Skills: C/ JAVA / PYTHON / GIT / JS /REACT/ HTML / CSS/ BOOTSRAP/ TAILWIND AND M
 
 📫 **Contact**: Feel free to drop me a line at anicolasquil@gmail.com 
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/gmail.svg' alt='gmail' height='40'>](mailto:anicolasquil@gmail.com)  
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/gmail.svg' alt='gmail' height='40' color='white'](mailto:anicolasquil@gmail.com)  
 
 
 
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/gmail.svg' alt='gmail' height='40'>](mailto:anicolasquil@gmail.com)
 
