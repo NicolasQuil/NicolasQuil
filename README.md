@@ -6,7 +6,7 @@
 
 Skills: C/ JAVA / PYTHON / GIT / JS /REACT/ HTML / CSS/ BOOTSRAP/ TAILWIND AND MORE...
 
-📫 **Contact**: Feel free to drop me a line at [anicolasquil@gmail.com]!
+📫 **Contact**: Feel free to drop me a line at anicolasquil@gmail.com 
 
 
 
